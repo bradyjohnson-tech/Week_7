@@ -45,6 +45,7 @@ fun DiceRollerApp() {
     )
 }
 
+@Composable
 fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
     Column (
         modifier = modifier,
